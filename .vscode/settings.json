@@ -2,7 +2,6 @@
    "editor.formatOnSave": true,
    "editor.fontSize": 16,
    "editor.tabSize": 3,
-   "terminal.integrated.defaultProfile.windows": "Command Prompt",
    "terminal.explorerKind": "external",
    "editor.insertSpaces": true
 }
